@@ -1,6 +1,6 @@
 # Promobit - Filmes Populares
 
-Este projeto foi criado com [React] (https://github.com/facebook/create-react-app com as bibliotecas Axios, Styled-Components e React Router Dom, e consumindo dados da API pública [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction).
+Este projeto foi criado com [React](https://github.com/facebook/create-react-app) com as bibliotecas Axios, Styled-Components e React Router Dom, e consumindo dados da API pública [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction).
 
 ## Sobre o Projeto
 
