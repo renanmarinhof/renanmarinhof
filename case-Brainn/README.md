@@ -1,6 +1,6 @@
 # Brainn
 
-Este projeto foi criado com [React](https://github.com/facebook/create-react-app), Javascript,  styled-components, bibliotecas Axios, TypeScript e consumindo dados da [API](https://brainn-api-loterias.herokuapp.com).
+Este projeto foi criado com [React](https://github.com/facebook/create-react-app), Javascript,  styled-components, bibliotecas Axios, TypeScript e consumindo dados da [API](https://brainn-api-loterias.herokuapp.com). Havia um layout do [Figma](https://www.figma.com/file/H2qrYBCFMf4didYmxRwTxP/Brainn-Frontend-Challenge?node-id=0%3A1) sugerido.
 
 ## Sobre o Projeto
 
